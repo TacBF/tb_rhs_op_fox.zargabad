@@ -1,0 +1,21 @@
+class CfgSounds
+{
+	class Mosque
+	{
+		name = "Mosque";
+		sound[] = {"sound\Mosque.ogg", 0.20, 1};
+		titles[] = {1, ""};
+	};
+};
+#define TB_loadingScreen_imagePath "tb_Fox.jpg"
+//#define TB_loadingScreen_imagePath "\a3\ui_f\data\Logos\arma3_expansion_ca.paa"
+
+onLoadName="Operation Fox";
+author="Gunther (TacBF Team)";
+onLoadMission="Urban, US -vs- INS, Light Vehicles (HMG), APC, CAS, Air Trans, Static Weapons";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"

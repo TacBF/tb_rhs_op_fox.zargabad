@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Operation_Fox">
+
+	<Key ID="STR_TB_missionTitle_TB_Operation_Fox">
+		<Original>Operation Fox</Original>
+		<English>Operation Fox</English>
+		<German>Operation Fox</German>
+		<Italian>Operation Fox</Italian>
+		<Spanish>Operation Fox</Spanish>
+		<French>Operation Fox</French>
+		<Czech>Operation Fox</Czech>
+		<Russian>Operation Fox</Russian>
+		<Polish>Operation Fox</Polish>
+		<Hungarian>Operation Fox</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Operation_Fox">
+		<Original>TacBF S&D[L-100]: Operation Fox</Original>
+		<English>TacBF S&D[L-100]: Operation Fox</English>
+		<German>TacBF S&D[L-100]: Operation Fox</German>
+		<Italian>TacBF S&D[L-100]: Operation Fox</Italian>
+		<Spanish>TacBF S&D[L-100]: Operation Fox</Spanish>
+		<French>TacBF S&D[L-100]: Operation Fox</French>
+		<Czech>TacBF S&D[L-100]: Operation Fox</Czech>
+		<Russian>TacBF S&D[L-100]: Operation Fox</Russian>
+		<Polish>TacBF S&D[L-100]: Operation Fox</Polish>
+		<Hungarian>TacBF S&D[L-100]: Operation Fox</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
